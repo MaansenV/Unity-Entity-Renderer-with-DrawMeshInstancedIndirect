@@ -1,4 +1,3 @@
-﻿
 using Unity.Entities;
 using Unity.Mathematics;
 using UnityEngine;
@@ -6,6 +5,7 @@ using UnityEngine.Serialization;
 
 public class EntitiesReferenceAuthoring : UnityEngine.MonoBehaviour
 {
+    [Tooltip("The prefab to spawn as bullets or projectiles. Must have a SpriteDataAuthoring component.")]
     public GameObject bulletPrefab;
 
     

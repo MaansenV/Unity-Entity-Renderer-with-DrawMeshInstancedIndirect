@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Third
-  m_Shader: {fileID: 4800000, guid: 4a40e4e6081e49ecb9f8d2d68cf22a91, type: 3}
+  m_Shader: {fileID: 4800000, guid: b7dcc4f355d785b4681ccbb1a37806cf, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -48,3 +48,4 @@ Material:
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
